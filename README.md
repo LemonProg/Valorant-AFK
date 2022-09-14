@@ -15,7 +15,7 @@ Install my project with git clone
 
 ```bash
   git clone https://github.com/LemonProg/Valorant-AFK.git
-  cd my-project
+  cd Valorant-AFK-main
 ```
 or just download the project file by pressing "Download ZIP"
 
